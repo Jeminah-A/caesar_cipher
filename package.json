@@ -1,0 +1,23 @@
+{
+  "name": "caesar_cipher",
+  "version": "1.0.0",
+  "description": "A web app that implements the **Caesar Cipher** for encoding and decoding messages. It allows users to input a message, choose a key (shift value), and select whether to encode or decode. The app also includes **Jest** tests to ensure correctness.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeminah-A/caesar_cipher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeminah-A/caesar_cipher/issues"
+  },
+  "homepage": "https://github.com/Jeminah-A/caesar_cipher#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
